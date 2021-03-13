@@ -1,5 +1,3 @@
-# This code is Work in progress
-
 Scopo dell'applicazione è gestire la prenotazione/acquisto da remoto di biglietti di una sala cinema.
 La sala ha 150 posti a sedere.
 Si suppone che il sistema gestisca la prenotazione dei biglietti per un solo spettacolo. A esempio, il sistema consente la prenotazione dei posti per il film "Via Col Vento", in programmazione Sabato 27 febbraio 2021.
